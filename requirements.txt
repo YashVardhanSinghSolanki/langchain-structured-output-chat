@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+python-dotenv
+pydantic
+langchain_core
+langchain-groq
